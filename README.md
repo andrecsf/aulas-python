@@ -1,6 +1,7 @@
 # aulas-python
 
 ![ilustração linguagem python](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kuki_2005.jpg/250px-Kuki_2005.jpg)
+![ilustração linguagem python]("E:\Aluno\Pictures\Screenshots\Captura de tela 2025-05-13 110345.png")
 
 ## Tipos primitivos: string, number (int/float), boolean;
 
